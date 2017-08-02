@@ -53,10 +53,10 @@ body {
   opacity: 1; }
 
 header {
-  background-image: url("../img/text.jpg");
+  background-image: url("../img/bg-index.jpg");
   background-repeat: no-repeat;
   background-position: bottom;
-  min-height: 485px; }
+  min-height: 1080px; }
 
 .header-line {
   position: absolute;
@@ -183,3 +183,11 @@ header {
 
 .ob {
   text-align: center; }
+
+.t1 {
+  text-align: center;
+  padding: 80px 0; }
+
+.t2 {
+  text-align: center;
+  background-color: #435061; }
